@@ -1,8 +1,8 @@
 # Unmantained
 
-I wrote this code long time ago, when I was still using emacs and pastebin, I left it here so it could be useful to others as it was to me. At that time I didn't know how to secure password storage so I placed a big notice that this is not safe. Well, this is not the case anymore. @cnsunyour did a nice work by fixing the unsafe password storage, I strongly recommend that you use it's fork instead, 
+I wrote this code long time ago, when I was still using emacs and pastebin, I left it here so it could be useful to others as it was to me. At that time I didn't know how to secure password storage so I placed a big notice that this is not safe. Well, this is not the case anymore. [@cnsunyour](https://github.com/cnsunyour) did a nice work by fixing the unsafe password storage, I strongly recommend that you use it's fork instead, 
 
-https://github.com/cnsunyour
+
 https://github.com/cnsunyour/emacs-pastebin
 
 # Emacs Pastebin Interface
